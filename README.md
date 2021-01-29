@@ -6,6 +6,6 @@
 -JavaScript
 ### Библиотеки:
 -Bootstrap v5
-- Swiper Slider JS
+-Swiper Slider JS
 
 
